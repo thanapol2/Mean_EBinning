@@ -1,5 +1,4 @@
 from numpy import sqrt, mean, log
-from skmultiflow.drift_detection import adwin
 
 
 class Mean_EBinning:
@@ -40,24 +39,6 @@ class Mean_EBinning:
         self.buffer.append(value)
         if len(self.buffer) >= self.ini_binsize:
             self.insert_bin_into_window()
-            # self.window.append(self.initialization_bin(self.buffer))  # Bin initialization
-            # self.reset_buffer()
-            # # Compute Score (bin_{|w|}, bin_{|w|-1})
-            # if len(self.window) == 1:
-            #     k = 0
-            # else:
-            #     latest_index = len(self.window) - 1
-            #     k = self.compute_score(prior_bin=self.window[latest_index - 1],
-            #                            latest_bin=self.window[latest_index],
-            #                            alpha=self.alpha)
-            # self.score_profile.append(k)
-            # # Line 7 - 11
-            # if len(self.window) == self.max_window_size:
-            #     p = self.find_index_of_min_k(self.score_profile)
-            #     self.window[p - 1](self.window[p])  # merge bin_{p-1} and bin_{p} into bin_{p-1}
-            #     self.window.pop(p)
-            #     self.score_profile.pop(p)
-            #     self.update_score_profile(update_index=p-1)
 
     def insert_bin_into_window(self):
         self.window.append(self.initialization_bin(self.buffer))  # Bin initialization
