@@ -1,5 +1,5 @@
 # Mean_EBinning
-Mean-Ebinning a novel approach to solve the problem of sketching time-series data (TSD).
+Mean-Ebinning a novel approach to solve the problem of sketching time-series data (TSD). The Mean-EBinning automatically specifies the appropriate bin size (_𝑛_) for each bin in a window (_W_).
 
 References
 ----------
