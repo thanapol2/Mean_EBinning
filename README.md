@@ -10,7 +10,7 @@ Mean-EBinning was implemented using Python 3.9.2.
 - https://doi.org/10.1145/3555776.3577606
 
 ## Dependencies
-- [numpy](http://www.numpy.org/) >=1.24.2
+- [numpy](http://www.numpy.org/) >=1.23.5
 - [Bokeh](http://bokeh.org/) >= 2.4.3
 
 ## Citing
