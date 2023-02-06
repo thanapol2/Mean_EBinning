@@ -1,4 +1,4 @@
-# Mean_EBinning
+# Mean-elastic data binning (Mean-EBinning)
 Mean-Ebinning a novel approach to solve the problem of sketching time-series data (TSD). The Mean-EBinning automatically specifies the appropriate bin size (_𝑛_) for each bin in a window (_W_).
 
 Mean-EBinning was implemented using Python 3.9.2.
