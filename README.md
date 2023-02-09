@@ -23,4 +23,4 @@ We are grateful to M. Aizawa and K. Kashiyama for their useful suggestions and p
 
 ## Link
 - [Our laboraory at Shizuoka University](http://lab.inf.shizuoka.ac.jp/yamamoto/)
-- [Tomo-e Gozen prohect](https://tomoe.mtk.ioa.s.u-tokyo.ac.jp/)
+- [Tomo-e Gozen project](https://tomoe.mtk.ioa.s.u-tokyo.ac.jp/)
