@@ -1,9 +1,11 @@
 # Mean-elastic data binning (Mean-EBinning)
-Mean-Ebinning a novel approach to solve the problem of sketching time-series data (TSD). The Mean-EBinning automatically specifies the appropriate bin size (_𝑛_) for each bin in a window (_W_).
+- Mean-Ebinning a novel approach to solve the problem of sketching time-series data (TSD). The Mean-EBinning automatically specifies the appropriate bin size (_𝑛_) for each bin in a window (_W_).
 
-Mean-EBinning was implemented using Python 3.9.2.
+- Mean-EBinning was implemented using Python 3.9.2.
 
 >T. Phungtua-eng, Y. Yamamoto, and S. Sako. 2023. Elastic Data Binning for Transient Pattern Analysis in Time-Domain Astrophysics. In Proceedings of the 38th ACM/SIGAPP Symposium on Applied Computing (SAC '23).
+
+- If you have any more questions or need further suggestions, don't hesitate to email me.
 
 ## Document material
 - [dataset and supplementary material](https://sites.google.com/view/elasticdatabinning)
