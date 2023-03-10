@@ -19,7 +19,8 @@ Mean-EBinning was implemented using Python 3.9.2.
 - Notably, we will update the bibliographic information in BibTeX once it becomes available in the ACM Library.
 
 ## Acknowledgement
-We are grateful to M. Aizawa and K. Kashiyama for their useful suggestions and providing the LCs dataset from survey for Mdwarfs flares using Tomo-e Gozen on Kiso Schmidt telescope. https://doi.org/10.1093/pasj/psac056
+- The dataset provided was obtained from the Tomo-e Gozen project of the Kiso Schmidt telescope. For more detail, visit https://tomoe.mtk.ioa.s.u-tokyo.ac.jp/
+- We are grateful to M. Aizawa and K. Kashiyama for their useful suggestions and providing the LCs dataset from survey for Mdwarfs flares using Tomo-e Gozen on Kiso Schmidt telescope. https://doi.org/10.1093/pasj/psac056
 
 ## Link
 - [Our laboraory at Shizuoka University](http://lab.inf.shizuoka.ac.jp/yamamoto/)
