@@ -1,3 +1,4 @@
+![alt text](https://github.com/thanapol2/Mean_EBinning/blob/082cd9447659d9d140acc38d5d4c11db9187d06c/Documents/shizuoka%20bannar.png)
 # Mean-elastic data binning (Mean-EBinning)
 - Mean-Ebinning a novel approach to solve the problem of sketching time-series data (TSD). The Mean-EBinning automatically specifies the appropriate bin size (_𝑛_) for each bin in a window (_W_).
 
