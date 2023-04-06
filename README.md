@@ -4,7 +4,7 @@
 
 - Mean-EBinning was implemented using Python 3.9.2.
 
->T. Phungtua-eng, Y. Yamamoto, and S. Sako. 2023. Elastic Data Binning for Transient Pattern Analysis in Time-Domain Astrophysics. In Proceedings of the 38th ACM/SIGAPP Symposium on Applied Computing (SAC '23).
+>T. Phungtua-eng, Y. Yamamoto, and S. Sako. 2023. Elastic Data Binning for Transient Pattern Analysis in Time-Domain Astrophysics. In Proceedings of the 38th ACM/SIGAPP Symposium on Applied Computing (SAC '23), 342 - 349.
 
 - If you have any more questions or need further suggestions, don't hesitate to email me.
 
