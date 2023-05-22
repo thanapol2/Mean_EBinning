@@ -10,7 +10,7 @@
 
 ## Document material
 - [dataset and supplementary material](https://sites.google.com/view/elasticdatabinning)
-- https://doi.org/10.1145/3555776.3577606
+- https://doi.org/10.1145/3555776.3577606 (Online proceedings will appear by July 2023.)
 
 ## Dependencies
 - [numpy](http://www.numpy.org/) >=1.23.5
