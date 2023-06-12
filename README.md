@@ -9,8 +9,8 @@
 - If you have any more questions or need further suggestions, don't hesitate to email me.
 
 ## Document material
+- [Elastic Data Binning for Transient Pattern Analysis in Time-Domain Astrophysics](https://doi.org/10.1145/3555776.3577606)
 - [dataset and supplementary material](https://sites.google.com/view/elasticdatabinning)
-- https://doi.org/10.1145/3555776.3577606
 
 ## Dependencies
 - [numpy](http://www.numpy.org/) >=1.23.5
