@@ -10,7 +10,7 @@
 
 ## Document material
 - [dataset and supplementary material](https://sites.google.com/view/elasticdatabinning)
-- https://doi.org/10.1145/3555776.3577606 (Online proceedings will appear by July 2023.)
+- https://doi.org/10.1145/3555776.3577606
 
 ## Dependencies
 - [numpy](http://www.numpy.org/) >=1.23.5
@@ -19,7 +19,25 @@
 ## Citing
 - Our publication has been accepted for presentation at the 38th ACM/SIGAPP Symposium on Applied Computing  (SAC '23). 
 - If you plan to use or apply our source code, please cite our paper published in the Proceedings of the 38th ACM/SIGAPP Symposium on Applied Computing (SAC '23).
-- Notably, we will update the bibliographic information in BibTeX once it becomes available in the ACM Library.
+
+## BibTex
+```
+@inproceedings{10.1145/3555776.3577606,
+    author = {Phungtua-Eng, Thanapol and Yamamoto, Yoshitaka and Sako, Shigeyuki},
+    title = {Elastic Data Binning for Transient Pattern Analysis in Time-Domain Astrophysics},
+    year = {2023},
+    isbn = {9781450395175},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3555776.3577606},
+    doi = {10.1145/3555776.3577606},
+    booktitle = {Proceedings of the 38th ACM/SIGAPP Symposium on Applied Computing},
+    pages = {342–349},
+    numpages = {8},
+    location = {Tallinn, Estonia},
+    series = {SAC '23}
+}
+```
 
 ## Acknowledgement
 - The dataset provided was obtained from the Tomo-e Gozen project of the Kiso Schmidt telescope. For more detail, visit https://tomoe.mtk.ioa.s.u-tokyo.ac.jp/
