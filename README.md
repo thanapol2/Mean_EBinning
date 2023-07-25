@@ -14,7 +14,7 @@
 
 ## Dependencies
 - [numpy](http://www.numpy.org/) >=1.23.5
-- [Bokeh](http://bokeh.org/) >= 2.4.3
+- [Bokeh](http://bokeh.org/) = 2.4.3
 
 ## Citing
 - Our publication has been accepted for presentation at the 38th ACM/SIGAPP Symposium on Applied Computing  (SAC '23). 
